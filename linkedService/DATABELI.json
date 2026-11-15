@@ -1,0 +1,10 @@
+{
+	"name": "DATABELI",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://databeli.dfs.core.windows.net/"
+		}
+	}
+}
