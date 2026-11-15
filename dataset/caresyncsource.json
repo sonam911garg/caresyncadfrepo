@@ -1,0 +1,12 @@
+{
+	"name": "caresyncsource",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "caresyncpostgres",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "PostgreSqlV2Table",
+		"schema": []
+	}
+}
